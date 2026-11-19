@@ -2,7 +2,12 @@
 
 ![ZTE MF286R OpenWrt Banner](screenshots/banner.jpg)
 
-![platform: Windows](https://img.shields.io/badge/platform-Windows-0078D6?logo=windows&logoColor=white) ![OpenWrt: 23.05.6 & 25.12.6](https://img.shields.io/badge/OpenWrt-23.05.6%20%26%2025.12.6-00B5E2?logo=openwrt&logoColor=white) ![UART: Not Required (One-Click)](https://img.shields.io/badge/UART-Not%20Required%20(One--Click)-brightgreen) ![license: MIT](https://img.shields.io/badge/license-MIT-green)
+<p align="center">
+  <img src="https://img.shields.io/badge/platform-Windows-0078D6?logo=windows&logoColor=white" alt="platform: Windows" />
+  <img src="https://img.shields.io/badge/OpenWrt-23.05.6%20%26%2025.12.6-00B5E2?logo=openwrt&logoColor=white" alt="OpenWrt: 23.05.6 & 25.12.6" />
+  <img src="https://img.shields.io/badge/UART-Not%20Required%20%28One--Click%29-brightgreen" alt="UART: Not Required (One-Click)" />
+  <img src="https://img.shields.io/badge/license-MIT-green" alt="license: MIT" />
+</p>
 
 A standalone, **one-click Windows installer** that flashes permanent **OpenWrt** directly onto the **ZTE MF286R** LTE router over a standard Ethernet cable—**without requiring UART/Serial access, TFTP boot, or a two-step `initramfs` + `sysupgrade` workflow**.
 
